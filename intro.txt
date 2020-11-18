@@ -1,0 +1,10 @@
+Javascript offers a way to test the 'type' of a variable
+To determine a specific value we can indicate it with type of
+
+"Scope" refers to the variables that are available to a piece of 
+code at a given time.
+
+JQuery Basics:
+
+$(document).ready() will only run once the page is 
+ready for JavaScript code to execute and in short $
