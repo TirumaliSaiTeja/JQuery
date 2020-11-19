@@ -8,3 +8,23 @@ JQuery Basics:
 
 $(document).ready() will only run once the page is 
 ready for JavaScript code to execute and in short $
+
+JQuery is a lightweight, 'write less, do more' and its javascript library
+
+Purpose of JQuery is to make it much easier to use javascript on our website
+
+jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls 
+and DOM manipulation.
+
+jQuery library contains bellow features:
+HTML/DOM manipulation
+CSS manipulation
+HTML event methods
+Effects and animations
+AJAX
+Utilities
+
+JQuery Syntax
+
+
+
