@@ -1,0 +1,33 @@
+<!-- JQuery Event Methods -->
+<!-- // jQuery is tailor-made to respond to events in an HTML page.
+
+// An event represents the precise moment when something happens. -->
+
+<!-- Examples:
+
+moving a mouse over an element
+selecting a radio button
+clicking on an element 
+
+The term "fires/fired" is often used with events. Example: "The keypress event 
+is fired, the moment you press a key".-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/
+    jquery.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $('p').click(function () {
+          $(this).hide()
+        })
+      })
+    </script>
+  </head>
+  <body>
+    <p>If you click on me, I will disappear.</p>
+    <p>Click me away!</p>
+    <p>Click me too!</p>
+  </body>
+</html>
